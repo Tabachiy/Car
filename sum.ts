@@ -1,7 +1,6 @@
 export class Car {
   amountOfFuel: number;
   fuelСonsumption: number;
-  maxDistance: number;
 
     constructor(carAmountOfFuel: number,
       carFuelСonsumption: number) {
